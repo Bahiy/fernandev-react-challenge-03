@@ -68,6 +68,7 @@ button {
 	background: #535bf2;
 	height: 100%;
 	width: 100px;
+	transition: width 0.5s ease;
 }
 label {
 	margin-bottom: 5px;
